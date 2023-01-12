@@ -1,0 +1,17 @@
+{
+    "name": "root/image-native",
+    "autoload": {
+        "psr-4": {
+            "Root\\ImageNative\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andi"
+        }
+    ],
+    "require": {
+        "mike42/gfx-php": "^0.6.0",
+        "intervention/image": "^2.7"
+    }
+}
